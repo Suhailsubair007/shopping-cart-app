@@ -10,18 +10,12 @@ A simple React application that allows users to add products to a shopping cart,
 - Progress bar showing how close you are to the free gift threshold.
 - Smooth user experience with a notification when the free gift is added.
 
-## Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [npm](https://www.npmjs.com/) (v6 or higher)
-- [Git](https://git-scm.com/) (for cloning the repository)
 
 ## How to Run the Project
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/shopping-cart-app.git
-cd shopping-cart-app
+git clone https://github.com/Suhailsubair007/shopping-cart-app.git
 ```
 
 2. **Install Dependencies**
@@ -31,9 +25,9 @@ npm install
 
 3. **Start the Development Server**
 ```bash
-npm start
+npm start 
 ```
-The app will open in your browser at http://localhost:3000.
+The app will open in your browser at http://localhost:5173/
 
 ## Build for Production (Optional)
 ```bash
